@@ -1,1 +1,1 @@
-# Studia
+Wzorce_projektowe
